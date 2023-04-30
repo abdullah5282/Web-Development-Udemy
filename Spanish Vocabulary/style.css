@@ -1,0 +1,22 @@
+h2[value='1']{
+    font-size: medium;
+    font-weight: normal;
+    color: red;
+}
+h2[value='2']{
+    font-size: medium;
+    font-weight: normal;
+    color: blue;
+}
+h2[value='3']{
+    font-size: medium;
+    font-weight: normal;
+    color: orange;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+h1{
+    text-align: center;
+}
